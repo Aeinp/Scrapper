@@ -1,13 +1,4 @@
 <h1 align="center">SocialScraper</h1><br>
-<p align="center">
-  <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="build status">
-  <img src="https://img.shields.io/badge/analyze-passed-rightgreen" alt="Analyze">
-  <img src="https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red" alt="version">
-  <img src="https://img.shields.io/badge/coverage-75%25-green" alt="Coverage"></br>
-  <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen" alt="Test">
-  <img src="https://img.shields.io/badge/python-v3.7-blue" alt="Python V3.7">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-  <img src="https://img.shields.io/badge/Status-up-brightgreen" alt="status-up"><br><br>
 Social Scraper is a python tool meant for Detection of Child Predators/Cyber Harassers on Social Media
 </p><br>
 
